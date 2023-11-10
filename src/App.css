@@ -1,0 +1,28 @@
+  @import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+
+.clock{
+  background: #000;
+
+  height: 100vh;
+  width: 100vw;
+  display: flex ;
+align-items: center;
+justify-content: center;
+font-size: 100px;
+font-family: 'Vina Sans', sans-serif;
+
+
+}
+.clock div{
+  border: 1px solid lightgoldenrodyellow;
+ padding: 15px;
+  color: Red;
+  margin-left: 2px;
+}
+.clock .period{
+ 
+  font-size: 20px;
+  background: gray;
+  margin-bottom: 90px;
+}
